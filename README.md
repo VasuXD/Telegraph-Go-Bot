@@ -8,7 +8,7 @@
 
 ## Usage Guide
 
-A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/Telegraph-Bot-Usage-Guide-Stark-Bots-02-26)
+A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/TelegraphBot-03-02)
 
 ## Features
 
