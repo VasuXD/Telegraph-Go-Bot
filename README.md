@@ -16,7 +16,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku_deployer.herokuapp.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku-deployer.herokuapp.com)
 
 1. Tap on above button and fill `TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
